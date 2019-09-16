@@ -13,7 +13,7 @@
 
     <groupId>com.tdoer</groupId>
     <artifactId>tdoer-parent-pom</artifactId>
-    <version>1.0.0-RELEASE</version>
+    <version>1.0.1-RELEASE</version>
     <packaging>pom</packaging>
     <name>Parent POM</name>
     <description>The parent POM for all spring boot applications of T-Doer SaaS Projects</description>
