@@ -1,2 +1,5 @@
 /.idea/
 /tdoer-parent-pom.iml
+/target
+.project
+.settings
