@@ -1,101 +1,179 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="GradleLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="$USER_HOME$/3rdworks/Swagger2Markup/spring-swagger2markup-demo" value="PREVIEW" />
-        <entry key="$USER_HOME$/3rdworks/spring-projects/spring-framework" value="PREVIEW" />
-        <entry key="$USER_HOME$/3rdworks/spring-projects/spring-restdocs" value="PREVIEW" />
-        <entry key="$USER_HOME$/3rdworks/spring-projects/spring-security" value="PREVIEW" />
-        <entry key="$USER_HOME$/3rdworks/spring-projects/spring-security-oauth2-boot" value="PREVIEW" />
-        <entry key="$USER_HOME$/bbworks/boms/dragon" value="PREVIEW" />
-        <entry key="$USER_HOME$/bbworks/common/bybon-cas-server" value="PREVIEW" />
-        <entry key="$USER_HOME$/bbworks/dragon/bybon-dragon/dragon" value="PREVIEW" />
-        <entry key="$USER_HOME$/bbworks/dragon/bybon-report" value="PREVIEW" />
-        <entry key="$USER_HOME$/bbworks/ecm/sdfeng-ecm/ec-parent" value="PREVIEW" />
-        <entry key="$USER_HOME$/bbworks/lab/lab-frontend-service" value="PREVIEW" />
-        <entry key="$USER_HOME$/bybon/boms/dragon" value="PREVIEW" />
-        <entry key="$USER_HOME$/ccworks/tcc_cloudfw/api" value="PREVIEW" />
-        <entry key="$USER_HOME$/ccworks/tcc_cloudfw/impl" value="PREVIEW" />
-      </map>
+  <component name="ChangeListManager">
+    <list default="true" id="2cf4290f-fafc-4bf7-8394-104510851640" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../tdoer-bedrock/src/main/java/com/tdoer/bedrock/context/AbstractContextInstance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tdoer-service-interfaces/src/main/java/com/tdoer/delegate/user/UserServiceDelegate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tdoer-service-interfaces/src/main/java/com/tdoer/interfaces/user/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tdoer-bedrock-impl/src/main/java/com/tdoer/bedrock/impl/context/ContextBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdoer-bedrock-impl/src/main/java/com/tdoer/bedrock/impl/context/ContextBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tdoer-bedrock-impl/src/main/java/com/tdoer/bedrock/impl/context/ContextLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdoer-bedrock-impl/src/main/java/com/tdoer/bedrock/impl/context/ContextLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tdoer-bedrock-impl/src/main/java/com/tdoer/bedrock/impl/context/DefaultContextCenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdoer-bedrock-impl/src/main/java/com/tdoer/bedrock/impl/context/DefaultContextCenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tdoer-bedrock-impl/src/main/java/com/tdoer/bedrock/impl/context/DefaultContextInstance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tdoer-bedrock-impl/src/main/java/com/tdoer/bedrock/impl/context/DefaultContextType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tdoer-bedrock-impl/src/main/java/com/tdoer/bedrock/impl/context/cache/RootContextTypeCacheManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdoer-bedrock-impl/src/main/java/com/tdoer/bedrock/impl/context/cache/ContextTypesCacheManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tdoer-bedrock-impl/src/main/java/com/tdoer/bedrock/impl/definition/context/ContextInstanceDefinition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tdoer-bedrock-impl/src/main/java/com/tdoer/bedrock/impl/definition/context/ContextTypeDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdoer-bedrock-impl/src/main/java/com/tdoer/bedrock/impl/definition/context/ContextTypeDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tdoer-bedrock-impl/src/main/java/com/tdoer/bedrock/impl/tenant/DefaultTenant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdoer-bedrock-impl/src/main/java/com/tdoer/bedrock/impl/tenant/DefaultTenant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tdoer-bedrock-impl/src/main/java/com/tdoer/bedrock/impl/tenant/TenantBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdoer-bedrock-impl/src/main/java/com/tdoer/bedrock/impl/tenant/TenantBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tdoer-bedrock/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../tdoer-bedrock/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tdoer-bedrock/src/main/java/com/tdoer/bedrock/PlatformConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdoer-bedrock/src/main/java/com/tdoer/bedrock/PlatformConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tdoer-bedrock/src/main/java/com/tdoer/bedrock/context/ContextCenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdoer-bedrock/src/main/java/com/tdoer/bedrock/context/ContextCenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tdoer-bedrock/src/main/java/com/tdoer/bedrock/context/ContextInstance.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdoer-bedrock/src/main/java/com/tdoer/bedrock/context/ContextInstance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tdoer-bedrock/src/main/java/com/tdoer/bedrock/context/ContextType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdoer-bedrock/src/main/java/com/tdoer/bedrock/context/ContextType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tdoer-bedrock/src/main/java/com/tdoer/bedrock/tenant/BaseUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdoer-bedrock/src/main/java/com/tdoer/bedrock/tenant/BaseUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tdoer-bedrock/src/main/java/com/tdoer/bedrock/tenant/Tenant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdoer-bedrock/src/main/java/com/tdoer/bedrock/tenant/Tenant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tdoer-bedrock/src/main/java/com/tdoer/bedrock/tenant/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdoer-bedrock/src/main/java/com/tdoer/bedrock/tenant/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tdoer-parent-pom.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tdoer-service-interfaces/src/main/java/com/tdoer/delegate/bedrock/ContextServiceDelegate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdoer-service-interfaces/src/main/java/com/tdoer/delegate/bedrock/ContextServiceDelegate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tdoer-service-interfaces/src/main/java/com/tdoer/interfaces/bedrock/service/ContextService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdoer-service-interfaces/src/main/java/com/tdoer/interfaces/bedrock/service/ContextService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tdoer-service-interfaces/src/main/java/com/tdoer/interfaces/user/service/BEndUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdoer-service-interfaces/src/main/java/com/tdoer/interfaces/user/service/UserServiceFeignClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tdoer-service-interfaces/src/main/java/com/tdoer/interfaces/user/service/CEndUserService.java" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
     </option>
   </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../tdoer-bedrock-impl" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="956" />
-    <option name="y" value="48" />
-    <option name="width" value="790" />
-    <option name="height" value="545" />
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QvBlHhpa2mmq1h0UKETdfpL42m" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tdoer-service-interfaces/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\T-Doer\workspace\tdoer-parent-pom" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+    <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2cf4290f-fafc-4bf7-8394-104510851640" name="Default Changelist" comment="" />
+      <created>1568641338173</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568641338173</updated>
+      <workItem from="1568641339517" duration="408000" />
+      <workItem from="1568641912849" duration="402000" />
+      <workItem from="1574474736468" duration="3482000" />
+      <workItem from="1574479657422" duration="8926000" />
+      <workItem from="1574548348348" duration="25945000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add LISENCE.txt and .gitignore">
+      <created>1568641737546</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568641737546</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update version from 1.0.0 to 1.0.1 for page helper">
+      <created>1568642309717</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568642309717</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Since Springboot 2.1, FeignClient's name should be unique">
+      <created>1574502350617</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1574502350617</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add LISENCE.txt and .gitignore" />
+    <MESSAGE value="Update version from 1.0.0 to 1.0.1 for page helper" />
+    <MESSAGE value="Since Springboot 2.1, FeignClient's name should be unique" />
+    <MESSAGE value="Adjust ContextInstance related implementation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adjust ContextInstance related implementation" />
   </component>
 </project>
