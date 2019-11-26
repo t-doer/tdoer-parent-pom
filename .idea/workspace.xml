@@ -1,36 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2cf4290f-fafc-4bf7-8394-104510851640" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../tdoer-bedrock/src/main/java/com/tdoer/bedrock/context/AbstractContextInstance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tdoer-service-interfaces/src/main/java/com/tdoer/delegate/user/UserServiceDelegate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tdoer-service-interfaces/src/main/java/com/tdoer/interfaces/user/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tdoer-bedrock-impl/src/main/java/com/tdoer/bedrock/impl/context/ContextBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdoer-bedrock-impl/src/main/java/com/tdoer/bedrock/impl/context/ContextBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tdoer-bedrock-impl/src/main/java/com/tdoer/bedrock/impl/context/ContextLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdoer-bedrock-impl/src/main/java/com/tdoer/bedrock/impl/context/ContextLoader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tdoer-bedrock-impl/src/main/java/com/tdoer/bedrock/impl/context/DefaultContextCenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdoer-bedrock-impl/src/main/java/com/tdoer/bedrock/impl/context/DefaultContextCenter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tdoer-bedrock-impl/src/main/java/com/tdoer/bedrock/impl/context/DefaultContextInstance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tdoer-bedrock-impl/src/main/java/com/tdoer/bedrock/impl/context/DefaultContextType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tdoer-bedrock-impl/src/main/java/com/tdoer/bedrock/impl/context/cache/RootContextTypeCacheManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdoer-bedrock-impl/src/main/java/com/tdoer/bedrock/impl/context/cache/ContextTypesCacheManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tdoer-bedrock-impl/src/main/java/com/tdoer/bedrock/impl/definition/context/ContextInstanceDefinition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tdoer-bedrock-impl/src/main/java/com/tdoer/bedrock/impl/definition/context/ContextTypeDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdoer-bedrock-impl/src/main/java/com/tdoer/bedrock/impl/definition/context/ContextTypeDefinition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tdoer-bedrock-impl/src/main/java/com/tdoer/bedrock/impl/tenant/DefaultTenant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdoer-bedrock-impl/src/main/java/com/tdoer/bedrock/impl/tenant/DefaultTenant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tdoer-bedrock-impl/src/main/java/com/tdoer/bedrock/impl/tenant/TenantBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdoer-bedrock-impl/src/main/java/com/tdoer/bedrock/impl/tenant/TenantBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tdoer-bedrock/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../tdoer-bedrock/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tdoer-bedrock/src/main/java/com/tdoer/bedrock/PlatformConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdoer-bedrock/src/main/java/com/tdoer/bedrock/PlatformConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tdoer-bedrock/src/main/java/com/tdoer/bedrock/context/ContextCenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdoer-bedrock/src/main/java/com/tdoer/bedrock/context/ContextCenter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tdoer-bedrock/src/main/java/com/tdoer/bedrock/context/ContextInstance.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdoer-bedrock/src/main/java/com/tdoer/bedrock/context/ContextInstance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tdoer-bedrock/src/main/java/com/tdoer/bedrock/context/ContextType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdoer-bedrock/src/main/java/com/tdoer/bedrock/context/ContextType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tdoer-bedrock/src/main/java/com/tdoer/bedrock/tenant/BaseUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdoer-bedrock/src/main/java/com/tdoer/bedrock/tenant/BaseUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tdoer-bedrock/src/main/java/com/tdoer/bedrock/tenant/Tenant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdoer-bedrock/src/main/java/com/tdoer/bedrock/tenant/Tenant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tdoer-bedrock/src/main/java/com/tdoer/bedrock/tenant/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdoer-bedrock/src/main/java/com/tdoer/bedrock/tenant/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+    <list default="true" id="2cf4290f-fafc-4bf7-8394-104510851640" name="Default Changelist" comment="Restore sso security configuration">
+      <change beforePath="$PROJECT_DIR$/../tdoer-bedrock-impl/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../tdoer-bedrock-impl/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tdoer-bedrock-impl/src/main/java/com/tdoer/bedrock/impl/autoconfigure/BeckrockAutoConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdoer-bedrock-impl/src/main/java/com/tdoer/bedrock/impl/autoconfigure/BeckrockAutoConfiguration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tdoer-parent-pom.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tdoer-service-interfaces/src/main/java/com/tdoer/delegate/bedrock/ContextServiceDelegate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdoer-service-interfaces/src/main/java/com/tdoer/delegate/bedrock/ContextServiceDelegate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tdoer-service-interfaces/src/main/java/com/tdoer/interfaces/bedrock/service/ContextService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdoer-service-interfaces/src/main/java/com/tdoer/interfaces/bedrock/service/ContextService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tdoer-service-interfaces/src/main/java/com/tdoer/interfaces/user/service/BEndUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tdoer-service-interfaces/src/main/java/com/tdoer/interfaces/user/service/UserServiceFeignClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tdoer-service-interfaces/src/main/java/com/tdoer/interfaces/user/service/CEndUserService.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -127,7 +101,8 @@
       <workItem from="1568641912849" duration="402000" />
       <workItem from="1574474736468" duration="3482000" />
       <workItem from="1574479657422" duration="8926000" />
-      <workItem from="1574548348348" duration="25945000" />
+      <workItem from="1574548348348" duration="39501000" />
+      <workItem from="1574683808857" duration="4734000" />
     </task>
     <task id="LOCAL-00001" summary="Add LISENCE.txt and .gitignore">
       <created>1568641737546</created>
@@ -150,7 +125,28 @@
       <option name="project" value="LOCAL" />
       <updated>1574502350617</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Adjust ContextInstance related implementation">
+      <created>1574592083532</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1574592083532</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Adjust gateway service security configuration">
+      <created>1574725752488</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1574725752488</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Restore sso security configuration">
+      <created>1574725816696</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1574725816696</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,6 +170,8 @@
     <MESSAGE value="Update version from 1.0.0 to 1.0.1 for page helper" />
     <MESSAGE value="Since Springboot 2.1, FeignClient's name should be unique" />
     <MESSAGE value="Adjust ContextInstance related implementation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adjust ContextInstance related implementation" />
+    <MESSAGE value="Adjust gateway service security configuration" />
+    <MESSAGE value="Restore sso security configuration" />
+    <option name="LAST_COMMIT_MESSAGE" value="Restore sso security configuration" />
   </component>
 </project>
